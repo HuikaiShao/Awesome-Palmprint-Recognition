@@ -1,5 +1,4 @@
-# Awesome-Palmprint-Recognition1
-# Awesome Palmprint Recognition [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-Palmprint-Recognition [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of articles and codes related to face forgery generation and detection. 
 
 ## Contributing
