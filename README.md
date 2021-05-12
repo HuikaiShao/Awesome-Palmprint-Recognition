@@ -10,7 +10,10 @@ Please feel free to send me pull requests or email to update this list together!
 ## Table of Contents
 ***
 
+- [Cross-dataset Recognition](#Cross-dataset Recognition)
 - [Databases](#databases)  
+- [Survey](#survey)
+
 
 <!--
 - [Target-specific Face Forgery](#target-specific-face-forgery)        
@@ -28,12 +31,18 @@ Please feel free to send me pull requests or email to update this list together!
 - [Databases](#databases)    
 - [Survey](#survey)    -->
 
+## Cross-dataset Recognition
+***
+* Towards Cross-Dataset Palmprint Recognition Via Joint Pixel and Feature Alignment (*2021 IEEE TIP*) [[Paper](https://ieeexplore.ieee.org/document/9382111)]
+* PalmGAN for Cross-Domain Palmprint Recognition (*2019 ICME*) [[Paper](https://ieeexplore.ieee.org/document/8784757)]
 ## Databases
 ***
 * [*XJTU-UP*] Xian Jiaotong University Unconstrained Palmprint database (XJTU-UP) Database [[Paper](https://ieeexplore.ieee.org/document/9335244)] [[Download](http://gr.xjtu.edu.cn/en/web/bell/resource)]
 * [*MPD*] Towards Palmprint Verification On Smartphones [[Paper](https://arxiv.org/pdf/2003.13266.pdf)] [[Download](https://cslinzhang.github.io/MobilePalmPrint/)]
 
-
+## Survey
+***
+* Decade progress of palmprint recognition: A brief survey (*2019 Neurocomputing*) [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231218309597)]
 
 <!--
 ## Target-specific Face Forgery
