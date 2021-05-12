@@ -24,7 +24,7 @@ Please feel free to send me pull requests or email to update this list together!
     - [Generalizable Detection](#generalizable-forgery-detection)        
     - [Spoofing Detection](#spoofing-forgery-detection)    
 - [Databases](#databases)    
-- [Survey](#survey)    --!>
+- [Survey](#survey)    !-->
 
 ## Target-specific Face Forgery
 ***
