@@ -11,7 +11,7 @@ Please feel free to send me pull requests or email to update this list together!
 ***
 
 - [Cross-dataset Recognition](#Cross-dataset Recognition)
-- [Databases](#databases)  
+- [Databases](#databases) 
 - [Survey](#survey)
 
 
