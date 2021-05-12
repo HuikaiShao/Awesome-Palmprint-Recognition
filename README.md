@@ -1,10 +1,10 @@
 # Awesome-Palmprint-Recognition [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-A curated list of articles and codes related to face forgery generation and detection. 
+A curated list of articles and codes related to palmprint recognition. 
 
 ## Contributing
 ***
 
-Please feel free to send me pull requests or email (clp.xidian@gmail.com) to update this list together!
+Please feel free to send me pull requests or email to update this list together!
 
 
 ## Table of Contents
