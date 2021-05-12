@@ -10,7 +10,7 @@ Please feel free to send me pull requests or email to update this list together!
 ## Table of Contents
 ***
 
-- [Cross-dataset Recognition](#Cross-dataset Recognition)
+- [Cross-dataset-Recognition](#Cross-dataset-Recognition)
 - [Cross-dataset Recognition](#Cross-dataset Recognition) 
 - [Databases](#databases) 
 - [Survey](#survey)
