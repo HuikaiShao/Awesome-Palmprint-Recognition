@@ -11,7 +11,7 @@ Please feel free to send me pull requests or email to update this list together!
 ***
 
 - [Cross-dataset-Recognition](#Cross-dataset-Recognition)
-- [Cross-dataset Recognition](#Cross-dataset Recognition) 
+- [Open-set-Recognition](#Open-set-Recognition) 
 - [Databases](#databases) 
 - [Survey](#survey)
 
@@ -35,7 +35,15 @@ Please feel free to send me pull requests or email to update this list together!
 ## Cross-dataset Recognition
 ***
 * Towards Cross-Dataset Palmprint Recognition Via Joint Pixel and Feature Alignment (*2021 IEEE TIP*) [[Paper](https://ieeexplore.ieee.org/document/9382111)]
+* Cross-Domain Palmprint Recognition Via Regularized Adversarial Domain Adaptive Hashing (*2020 IEEE TCSVT*) [[Paper](https://ieeexplore.ieee.org/document/9201119)]
 * PalmGAN for Cross-Domain Palmprint Recognition (*2019 ICME*) [[Paper](https://ieeexplore.ieee.org/document/8784757)]
+* Cross-Domain Palmprint Recognition Based on Transfer Convolutional Autoencoder (*2019 ICIP*) [[Paper](https://ieeexplore.ieee.org/document/8803778)]
+
+## Open-set Recognition
+***
+* Centralized Large Margin Cosine Loss for Open-Set Deep Palmprint Recognition (*2021 IEEE TCSVT*) [[Paper](https://ieeexplore.ieee.org/document/8666165)]
+* Boosting Unconstrained Palmprint Recognition with Adversarial Metric Learning (*2021 IEEE BIOM*) [[Paper](https://ieeexplore.ieee.org/document/9120220)]
+
 ## Databases
 ***
 * [*XJTU-UP*] Xian Jiaotong University Unconstrained Palmprint database (XJTU-UP) Database [[Paper](https://ieeexplore.ieee.org/document/9335244)] [[Download](http://gr.xjtu.edu.cn/en/web/bell/resource)]
